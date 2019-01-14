@@ -1,0 +1,257 @@
+Format: 1.0
+Source: e2fsprogs
+Binary: fuse2fs e2fsck-static e2fsprogs-l10n libcomerr2 libcom-err2 comerr-dev libss2 ss-dev e2fsprogs-udeb e2fslibs e2fslibs-dev libext2fs2 libext2fs-dev e2fsprogs
+Architecture: all amd64
+Version: 1.44.5-1
+Checksums-Md5:
+ 04b85822e2e3c8928da6ebf022fb24c5 157332 comerr-dev_2.1-1.44.5-1_amd64.deb
+ b0f220521aeba2a432379b5136532009 1638516 e2fsck-static-dbgsym_1.44.5-1_amd64.deb
+ cb69e495cb0bdedbc5cca99acff1f421 1553296 e2fsck-static_1.44.5-1_amd64.deb
+ 3211552d9022e274303f624d7958a6c3 64488 e2fslibs-dev_1.44.5-1_all.deb
+ 86f2c656dd3ed82ce3310ed2ed4d2e65 64124 e2fslibs_1.44.5-1_amd64.deb
+ 2ac888ffcdd3679ea6d037e26d2cb3dc 910960 e2fsprogs-dbgsym_1.44.5-1_amd64.deb
+ 9aba3032a05128da6b9ac7ad79ca5c76 503192 e2fsprogs-l10n_1.44.5-1_all.deb
+ 3d08026b0f3782eb9892f5ca0ab754ce 676488 e2fsprogs-udeb_1.44.5-1_amd64.udeb
+ b6e0b48c65f388d41efa19c79796c5f8 734636 e2fsprogs_1.44.5-1_amd64.deb
+ a7fd0455efed48467f1c33e9c0c66bd5 62804 fuse2fs-dbgsym_1.44.5-1_amd64.deb
+ dc0e13b2f67629659db50202d8170c93 101084 fuse2fs_1.44.5-1_amd64.deb
+ e848e18921d06ccf5aa35b455b4dc668 8724 libcom-err2-dbgsym_1.44.5-1_amd64.deb
+ b80b3f1b2c4eb95ee027fb26f51226d2 70848 libcom-err2_1.44.5-1_amd64.deb
+ 382589396ba17188ff22b9b078420b17 64128 libcomerr2_1.44.5-1_amd64.deb
+ 38c6c0ad5096b583a786a376a8d41605 2964276 libext2fs-dev_1.44.5-1_amd64.deb
+ b7553357e84903864ef7ac64ce1e057f 740556 libext2fs2-dbgsym_1.44.5-1_amd64.deb
+ f16e9f33397f94b9ae4f29951becb470 620396 libext2fs2_1.44.5-1_amd64.deb
+ 2c555574c61f3a17a52701746e4228cc 21096 libss2-dbgsym_1.44.5-1_amd64.deb
+ c042ba774f0f150643cdef55313990d1 81996 libss2_1.44.5-1_amd64.deb
+ 1fdeadd44edbbf710f3bf0f3c28cbcee 254144 ss-dev_2.0-1.44.5-1_amd64.deb
+Checksums-Sha1:
+ ab54439586ef5ae9403c354364f4495a5a7727a3 157332 comerr-dev_2.1-1.44.5-1_amd64.deb
+ 73f771a4e7717f0a494965c3cfbe1142963b2786 1638516 e2fsck-static-dbgsym_1.44.5-1_amd64.deb
+ 76075af2accfb0292fc5be84ba16157475d62313 1553296 e2fsck-static_1.44.5-1_amd64.deb
+ 1ba63168706d4a40f647e2cee1dbbed1d511b2a9 64488 e2fslibs-dev_1.44.5-1_all.deb
+ 9a8611f005f4ff4ee787fbac13dee419d5ed4a15 64124 e2fslibs_1.44.5-1_amd64.deb
+ 5b27e221e982a2fa40b68e7121bd7678b0c5642b 910960 e2fsprogs-dbgsym_1.44.5-1_amd64.deb
+ e5f537514120f0bfb03c6c3510740eba81cd8402 503192 e2fsprogs-l10n_1.44.5-1_all.deb
+ ebf3ac214a13a20a106c230b364e911880c5fc40 676488 e2fsprogs-udeb_1.44.5-1_amd64.udeb
+ a44cd7180c5db5155368b79e8d27afe1efb169fe 734636 e2fsprogs_1.44.5-1_amd64.deb
+ 77873ed5c2ced086cb49a591c3afa0ddcf093f60 62804 fuse2fs-dbgsym_1.44.5-1_amd64.deb
+ 82311feea04286016a88496c6988fa4fd849b50d 101084 fuse2fs_1.44.5-1_amd64.deb
+ 654aee2ff3b4aa5f6f718523c92d67d43f502136 8724 libcom-err2-dbgsym_1.44.5-1_amd64.deb
+ cb470c62665a33f5717a912358e3999d94943ba3 70848 libcom-err2_1.44.5-1_amd64.deb
+ e3dec9a1f4d23daf14b9ed561bead27823651073 64128 libcomerr2_1.44.5-1_amd64.deb
+ 4ba2e7b93294e59875eb46726092fca1b9867091 2964276 libext2fs-dev_1.44.5-1_amd64.deb
+ c81676751e1237d656d21da4779c9baed1751b5a 740556 libext2fs2-dbgsym_1.44.5-1_amd64.deb
+ 29331f98025a6129d5865a5f1fabd5a704be9e55 620396 libext2fs2_1.44.5-1_amd64.deb
+ 15df21f54f042260d2b244d92be0cc34e7169001 21096 libss2-dbgsym_1.44.5-1_amd64.deb
+ 842e51ea858e7ac5b8b38122e7a0bf3041293da4 81996 libss2_1.44.5-1_amd64.deb
+ 933d5d6d848c8f83a8f21f5c3b9ee66425f53563 254144 ss-dev_2.0-1.44.5-1_amd64.deb
+Checksums-Sha256:
+ 1abc36bfbc9e3fc5c1aa89a65a13c19e76b34016266f7e2c0921885360aede14 157332 comerr-dev_2.1-1.44.5-1_amd64.deb
+ c1145e15d051c5bb4553546b645ca9c88dd2a89cf110d228a73928c142b784b6 1638516 e2fsck-static-dbgsym_1.44.5-1_amd64.deb
+ e1c1ec7bbf025698a6304bfe926c69e10e1d8e027ef0b068719c1380a1b07787 1553296 e2fsck-static_1.44.5-1_amd64.deb
+ 6f03009f034331200745dcbdbd54508ad4ea9085882a9e76bb55f412fd729b2e 64488 e2fslibs-dev_1.44.5-1_all.deb
+ 96fac7e9112afdf774ff67ea329c48f80a1faff273c93a45a98eecd9e802a4ad 64124 e2fslibs_1.44.5-1_amd64.deb
+ b63fcbd4de259c60b8aa2bf1f9bdf5a2f8d779cb6d07ae3ca803b53faace4fc2 910960 e2fsprogs-dbgsym_1.44.5-1_amd64.deb
+ 5e24022f966b16e56075e4fd2a537bef258cbeb41ae63f090fb235096444f108 503192 e2fsprogs-l10n_1.44.5-1_all.deb
+ c9ab628238b72b20209de7ef496c7a7642260fb07267243f29d6d4a80f06e884 676488 e2fsprogs-udeb_1.44.5-1_amd64.udeb
+ f527d787a434e818f7f56549c4c86b5179bdee124a3e36984fc8d665cbc5f5b3 734636 e2fsprogs_1.44.5-1_amd64.deb
+ 31101d5010ace440ecb79b8065508f611fe42d6d943738d7aa0f79482ad2d0eb 62804 fuse2fs-dbgsym_1.44.5-1_amd64.deb
+ 77be7aa0ce083a2214e84df2e1ea88812e3319205f1792d6d250b727efb68dbb 101084 fuse2fs_1.44.5-1_amd64.deb
+ 7d2a9b91da4bec75dee8407583ca9550107719f36d2f0df0acec28d3f27bbd5e 8724 libcom-err2-dbgsym_1.44.5-1_amd64.deb
+ f66626a093e751748df2e73886313fa1bd37098477922ba98b82c229542bab11 70848 libcom-err2_1.44.5-1_amd64.deb
+ 55847b5dad865a7570d82c7c6c694c08ccc4a968fbc295a1f2cb132b04d93337 64128 libcomerr2_1.44.5-1_amd64.deb
+ ee1103d91e017b4d8d0c39ec28f70bd2447c17f5887c82d7a02197a1f3aa938a 2964276 libext2fs-dev_1.44.5-1_amd64.deb
+ 33e8e3146b2a552e75c2ca77e912d1db63801271d44fc1fcef59f20caa60ddd3 740556 libext2fs2-dbgsym_1.44.5-1_amd64.deb
+ 320020ac965f7a0cd96f21eec0763c241b087f924af4eb1538015fc5c2dc3054 620396 libext2fs2_1.44.5-1_amd64.deb
+ 6b19ca34e281ff45a2d19a6696170fac6244551788ec26012f6348e587339f61 21096 libss2-dbgsym_1.44.5-1_amd64.deb
+ 33aad94970d7f2a95b0c7811280acd8ffa3200aca49c9b8dcb93f0b17dd54d9b 81996 libss2_1.44.5-1_amd64.deb
+ a19044f329f5a848cbc9e5c0d27a07d5ba7764813724f8a58faf7c08f00ff158 254144 ss-dev_2.0-1.44.5-1_amd64.deb
+Build-Origin: Debian
+Build-Architecture: amd64
+Build-Date: Mon, 14 Jan 2019 05:00:14 +0100
+Installed-Build-Depends:
+ autoconf (= 2.69-11),
+ automake (= 1:1.16.1-4),
+ autopoint (= 0.19.8.1-2),
+ autotools-dev (= 20180224.1),
+ base-files (= 10.1),
+ base-passwd (= 3.5.45),
+ bash (= 4.4.18-3.1),
+ binutils (= 2.31.1-11),
+ binutils-common (= 2.31.1-11),
+ binutils-x86-64-linux-gnu (= 2.31.1-11),
+ bsdmainutils (= 11.1.2+b1),
+ bsdutils (= 1:2.33-0.2),
+ build-essential (= 12.5),
+ bzip2 (= 1.0.6-9),
+ coreutils (= 8.30-1),
+ cpp (= 4:8.2.0-2),
+ cpp-7 (= 7.4.0-2),
+ cpp-8 (= 8.2.0-13),
+ dash (= 0.5.10.2-4),
+ debconf (= 1.5.69),
+ debhelper (= 11.5.4),
+ debianutils (= 4.8.6),
+ dh-autoreconf (= 19),
+ dh-strip-nondeterminism (= 1.0.0-1),
+ diffutils (= 1:3.6-1),
+ dpkg (= 1.19.2),
+ dpkg-dev (= 1.19.2),
+ dwz (= 0.12-3),
+ fdisk (= 2.33-0.2),
+ file (= 1:5.35-1),
+ findutils (= 4.6.0+git+20181018-1),
+ g++ (= 4:8.2.0-2),
+ g++-8 (= 8.2.0-13),
+ gawk (= 1:4.2.1+dfsg-1),
+ gcc (= 4:8.2.0-2),
+ gcc-7 (= 7.4.0-2),
+ gcc-7-base (= 7.4.0-2),
+ gcc-8 (= 8.2.0-13),
+ gcc-8-base (= 8.2.0-13),
+ gettext (= 0.19.8.1-2),
+ gettext-base (= 0.19.8.1-2),
+ grep (= 3.1-2),
+ groff-base (= 1.22.4-1),
+ gzip (= 1.9-2),
+ hostname (= 3.21),
+ init-system-helpers (= 1.56+nmu1),
+ install-info (= 6.5.0.dfsg.1-4),
+ intel-comp-ps-ss-bec-19.0.1-144 (= 19.0.1-144),
+ intltool-debian (= 0.35.0+20060710.4),
+ libacl1 (= 2.2.52-3+b1),
+ libarchive-zip-perl (= 1.64-1),
+ libasan4 (= 7.4.0-2),
+ libasan5 (= 8.2.0-13),
+ libatomic1 (= 8.2.0-13),
+ libattr1 (= 1:2.4.47-2+b2),
+ libattr1-dev (= 1:2.4.47-2+b2),
+ libaudit-common (= 1:2.8.4-3),
+ libaudit1 (= 1:2.8.4-3),
+ libbinutils (= 2.31.1-11),
+ libblkid-dev (= 2.33-0.2),
+ libblkid1 (= 2.33-0.2),
+ libbsd0 (= 0.9.1-1),
+ libbz2-1.0 (= 1.0.6-9),
+ libc-bin (= 2.28-2),
+ libc-dev-bin (= 2.28-2),
+ libc6 (= 2.28-2),
+ libc6-dev (= 2.28-2),
+ libcap-ng0 (= 0.7.9-1+b1),
+ libcc1-0 (= 8.2.0-13),
+ libcilkrts5 (= 7.4.0-2),
+ libcroco3 (= 0.6.12-3),
+ libdb5.3 (= 5.3.28+dfsg1-0.2),
+ libdebconfclient0 (= 0.246),
+ libdpkg-perl (= 1.19.2),
+ libelf1 (= 0.175-1),
+ libfdisk1 (= 2.33-0.2),
+ libffi6 (= 3.2.1-9),
+ libfile-stripnondeterminism-perl (= 1.0.0-1),
+ libfuse-dev (= 2.9.9-1),
+ libfuse2 (= 2.9.9-1),
+ libgcc-7-dev (= 7.4.0-2),
+ libgcc-8-dev (= 8.2.0-13),
+ libgcc1 (= 1:8.2.0-13),
+ libgcrypt20 (= 1.8.4-4),
+ libgdbm-compat4 (= 1.18.1-2),
+ libgdbm6 (= 1.18.1-2),
+ libglib2.0-0 (= 2.58.2-3),
+ libgmp10 (= 2:6.1.2+dfsg-4),
+ libgomp1 (= 8.2.0-13),
+ libgpg-error0 (= 1.33-3),
+ libicu63 (= 63.1-5),
+ libisl19 (= 0.20-2),
+ libitm1 (= 8.2.0-13),
+ liblsan0 (= 8.2.0-13),
+ liblz4-1 (= 1.8.2-1),
+ liblzma5 (= 5.2.4-1),
+ libmagic-mgc (= 1:5.35-1),
+ libmagic1 (= 1:5.35-1),
+ libmount1 (= 2.33-0.2),
+ libmpc3 (= 1.1.0-1),
+ libmpfr6 (= 4.0.1-2),
+ libmpx2 (= 8.2.0-13),
+ libncursesw6 (= 6.1+20181013-1),
+ libpam-modules (= 1.1.8-3.8),
+ libpam-modules-bin (= 1.1.8-3.8),
+ libpam-runtime (= 1.1.8-3.8),
+ libpam0g (= 1.1.8-3.8),
+ libpcre16-3 (= 2:8.39-11),
+ libpcre3 (= 2:8.39-11),
+ libpcre3-dev (= 2:8.39-11),
+ libpcre32-3 (= 2:8.39-11),
+ libpcrecpp0v5 (= 2:8.39-11),
+ libperl5.28 (= 5.28.1-3),
+ libpipeline1 (= 1.5.0-2),
+ libquadmath0 (= 8.2.0-13),
+ libreadline7 (= 7.0-5),
+ libseccomp2 (= 2.3.3-4),
+ libselinux1 (= 2.8-1+b1),
+ libselinux1-dev (= 2.8-1+b1),
+ libsepol1 (= 2.8-1),
+ libsepol1-dev (= 2.8-1),
+ libsigsegv2 (= 2.12-2),
+ libsmartcols1 (= 2.33-0.2),
+ libstdc++-8-dev (= 8.2.0-13),
+ libstdc++6 (= 8.2.0-13),
+ libsystemd0 (= 240-2),
+ libtext-unidecode-perl (= 1.30-1),
+ libtinfo5 (= 6.1+20181013-1),
+ libtinfo6 (= 6.1+20181013-1),
+ libtool (= 2.4.6-6),
+ libtsan0 (= 8.2.0-13),
+ libubsan0 (= 7.4.0-2),
+ libubsan1 (= 8.2.0-13),
+ libuchardet0 (= 0.0.6-3),
+ libudev1 (= 240-2),
+ libunistring0 (= 0.9.6+really0.9.3-0.1),
+ libuuid1 (= 2.33-0.2),
+ libxml-libxml-perl (= 2.0132+dfsg-2+b1),
+ libxml-namespacesupport-perl (= 1.12-1),
+ libxml-sax-base-perl (= 1.09-1),
+ libxml-sax-perl (= 1.00+dfsg-2),
+ libxml2 (= 2.9.8-1),
+ linux-libc-dev (= 4.19.12-1),
+ login (= 1:4.5-1.1),
+ m4 (= 1.4.18-2),
+ make (= 4.2.1-1.2),
+ man-db (= 2.8.4-3),
+ mawk (= 1.3.3-17),
+ ncurses-base (= 6.1+20181013-1),
+ ncurses-bin (= 6.1+20181013-1),
+ patch (= 2.7.6-3),
+ perl (= 5.28.1-3),
+ perl-base (= 5.28.1-3),
+ perl-modules-5.28 (= 5.28.1-3),
+ pkg-config (= 0.29-4),
+ po-debconf (= 1.0.21),
+ readline-common (= 7.0-5),
+ sed (= 4.7-1),
+ sensible-utils (= 0.0.12),
+ sysvinit-utils (= 2.93-2),
+ tar (= 1.30+dfsg-3),
+ tex-common (= 6.10),
+ texinfo (= 6.5.0.dfsg.1-4),
+ ucf (= 3.0038+nmu1),
+ util-linux (= 2.33-0.2),
+ uuid-dev (= 2.33-0.2),
+ xz-utils (= 5.2.4-1),
+ zlib1g (= 1:1.2.11.dfsg-1)
+Environment:
+ AR="xiar.pl"
+ CC="icc.pl"
+ CPP="icc.pl -E"
+ CXX="icpc.pl"
+ DEB_BUILD_OPTIONS="nocheck nodoc parallel=8"
+ DEB_BUILD_PROFILES="nobiarch nocheck nodoc"
+ DEB_CFLAGS_SET="-g -O2 -fdebug-prefix-map=/dev/shm/RPM4/rpm/deps/libarchive/libext2fs-dev/libext2fs-dev=. -Wformat -march=native -pipe -Wformat-security"
+ DEB_CXXFLAGS_SET="-g -O2 -fdebug-prefix-map=/dev/shm/RPM4/rpm/deps/libarchive/libext2fs-dev/libext2fs-dev=. -Wformat -march=native -pipe -Wformat-security"
+ DEB_FCFLAGS_SET="-g -O2 -fdebug-prefix-map=/dev/shm/RPM4/rpm/deps/libarchive/libext2fs-dev/libext2fs-dev=. -fstack-protector-strong -march=native -pipe -fstack-security-check"
+ DEB_FFLAGS_SET="-g -O2 -fdebug-prefix-map=/dev/shm/RPM4/rpm/deps/libarchive/libext2fs-dev/libext2fs-dev=. -fstack-protector-strong -march=native -pipe -fstack-security-check"
+ DEB_LDFLAGS_SET=""
+ DPKG_GENSYMBOLS_CHECK_LEVEL="1"
+ LANG="en_US.UTF-8"
+ LC_CTYPE="en_US.UTF-8"
+ MAKEFLAGS="-l 8"
+ SOURCE_DATE_EPOCH="1544932009"

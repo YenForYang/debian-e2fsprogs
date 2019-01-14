@@ -1,0 +1,21 @@
+comerr-dev_2.1-1.44.5-1_amd64.deb libdevel optional
+e2fsck-static-dbgsym_1.44.5-1_amd64.deb debug optional automatic=yes
+e2fsck-static_1.44.5-1_amd64.deb admin optional
+e2fslibs-dev_1.44.5-1_all.deb oldlibs optional
+e2fslibs_1.44.5-1_amd64.deb oldlibs optional
+e2fsprogs-dbgsym_1.44.5-1_amd64.deb debug optional automatic=yes
+e2fsprogs-l10n_1.44.5-1_all.deb localization optional
+e2fsprogs-udeb_1.44.5-1_amd64.udeb debian-installer optional
+e2fsprogs_1.44.5-1_amd64.buildinfo admin required
+e2fsprogs_1.44.5-1_amd64.deb admin required
+fuse2fs-dbgsym_1.44.5-1_amd64.deb debug optional automatic=yes
+fuse2fs_1.44.5-1_amd64.deb admin optional
+libcom-err2-dbgsym_1.44.5-1_amd64.deb debug optional automatic=yes
+libcom-err2_1.44.5-1_amd64.deb libs optional
+libcomerr2_1.44.5-1_amd64.deb oldlibs optional
+libext2fs-dev_1.44.5-1_amd64.deb libdevel optional
+libext2fs2-dbgsym_1.44.5-1_amd64.deb debug optional automatic=yes
+libext2fs2_1.44.5-1_amd64.deb libs optional
+libss2-dbgsym_1.44.5-1_amd64.deb debug optional automatic=yes
+libss2_1.44.5-1_amd64.deb libs optional
+ss-dev_2.0-1.44.5-1_amd64.deb libdevel optional

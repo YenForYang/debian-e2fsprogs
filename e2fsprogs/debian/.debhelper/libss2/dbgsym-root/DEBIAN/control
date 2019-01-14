@@ -1,0 +1,15 @@
+Package: libss2-dbgsym
+Source: e2fsprogs
+Version: 1.44.5-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Theodore Y. Ts'o <tytso@mit.edu>
+Installed-Size: 39
+Depends: libss2 (= 1.44.5-1)
+Breaks: libss2-dbg (<= 1.43-1)
+Replaces: libss2-dbg (<= 1.43-1)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libss2
+Build-Ids: a1bb8e6f497c6377192d4ea548bfc7bc76463b26

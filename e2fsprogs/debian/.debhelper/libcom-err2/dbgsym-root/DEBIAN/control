@@ -1,0 +1,15 @@
+Package: libcom-err2-dbgsym
+Source: e2fsprogs
+Version: 1.44.5-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Theodore Y. Ts'o <tytso@mit.edu>
+Installed-Size: 24
+Depends: libcom-err2 (= 1.44.5-1)
+Breaks: libcom-err2-dbg (<= 1.43-1)
+Replaces: libcom-err2-dbg (<= 1.43-1)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libcom-err2
+Build-Ids: 2284b28e244894a2d4f6fa51c5a6ec9172d9e8c0

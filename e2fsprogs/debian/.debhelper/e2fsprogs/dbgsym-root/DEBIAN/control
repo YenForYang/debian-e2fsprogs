@@ -1,0 +1,14 @@
+Package: e2fsprogs-dbgsym
+Source: e2fsprogs
+Version: 1.44.5-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Theodore Y. Ts'o <tytso@mit.edu>
+Installed-Size: 1162
+Depends: e2fsprogs (= 1.44.5-1)
+Breaks: e2fsprogs-dbg (<= 1.43-1)
+Replaces: e2fsprogs-dbg (<= 1.43-1)
+Section: debug
+Priority: optional
+Description: debug symbols for e2fsprogs
+Build-Ids: 116575835b7b966f5c71474739009ba4900f9f96 246d4b044a6fc8ee41a55a5320f0b101ea13cdec 24dc7b5600b233fdeb030f76f63025e35db2809d 2b7916b41c98c04c354e79f237954e881e22645e 2dcb551693986f22280d357294083958438bc148 6a6679aa5ba1a33f4f209427b35cb3a111eacaad 721233d7165ad9b776d7da1dd8241344b11b99cf 7620f91be09f18acbac66926068aae654867e33b 8327c247d376516f50c5888aa52023feb76449d6 8f24a28836d8b4ef3853ee5a900e38b2998a40cd 9e78496eed961212235b91a4c748327a72986773 aa79f09be219660b3ed401839dbd56dc8502ca1d b0ba976c87a5acb39ce4155834fba1dd660a8b2c c0c7c60f6f835640b6f88ca104c31adc54a50e21 f0e33bf2c76c5d219bc4d277206101af1b8a8c16 f1e878fe439ba17c076625c80e29919e278c6a54 f9694b696be4340756b66ea69ad081d58f246a80

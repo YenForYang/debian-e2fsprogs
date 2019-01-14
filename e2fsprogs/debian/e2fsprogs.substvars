@@ -1,0 +1,3 @@
+shlibs:Depends=libblkid1 (>= 2.17.2), libc6 (>= 2.11), libcom-err2 (>= 1.44.5-1), libext2fs2 (= ${binary:Version}), libss2 (>= 1.44.5-1), libuuid1 (>= 2.16)
+misc:Depends=
+misc:Pre-Depends=

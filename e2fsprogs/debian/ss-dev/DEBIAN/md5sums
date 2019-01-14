@@ -1,0 +1,11 @@
+d5ebb0442020171479d07708ffb4ec0c  usr/bin/mk_cmds
+737d88b9e215a7980e74920afe31f562  usr/include/ss/ss.h
+84563809242582dc7904684bf476380d  usr/include/ss/ss_err.h
+b123f59207bbfac2e796660aa6f4fce3  usr/lib/x86_64-linux-gnu/libss.a
+a295e69ec664928e02056d9cdd455deb  usr/lib/x86_64-linux-gnu/pkgconfig/ss.pc
+ae5ff2a22acb50f0625d45f0fc5365f5  usr/share/doc/ss-dev/changelog.Debian.gz
+7c3e79fb1dc42838b81614695b02be5b  usr/share/doc/ss-dev/copyright
+fe138e56e20b12cd76cd91e5fd02499b  usr/share/doc/ss-dev/examples/debug_cmds.ct.gz
+c41f20fe287b1a353b248b9b30dca898  usr/share/man/man1/mk_cmds.1.gz
+b1083c00c9b18f06e378a9851af9d7a9  usr/share/ss/ct_c.awk
+af8da29457ed5a76ffeeb7afda709330  usr/share/ss/ct_c.sed

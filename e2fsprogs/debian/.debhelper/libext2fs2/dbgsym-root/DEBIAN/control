@@ -1,0 +1,15 @@
+Package: libext2fs2-dbgsym
+Source: e2fsprogs
+Version: 1.44.5-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Theodore Y. Ts'o <tytso@mit.edu>
+Installed-Size: 796
+Depends: libext2fs2 (= 1.44.5-1)
+Breaks: libext2fs2-dbg (<= 1.43-1)
+Replaces: libext2fs2-dbg (<= 1.43-1)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libext2fs2
+Build-Ids: 6708a721b34a74d0af201c6ef36011e801d59731 cc0b1ba4aaa5b90f7b0e81b9bfe01185a4cd529a

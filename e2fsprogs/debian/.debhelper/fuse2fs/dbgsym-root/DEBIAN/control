@@ -1,0 +1,12 @@
+Package: fuse2fs-dbgsym
+Source: e2fsprogs
+Version: 1.44.5-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Theodore Y. Ts'o <tytso@mit.edu>
+Installed-Size: 83
+Depends: fuse2fs (= 1.44.5-1)
+Section: debug
+Priority: optional
+Description: debug symbols for fuse2fs
+Build-Ids: 5b6a49575d1f6590c275566eaceb2a16d82dfb63

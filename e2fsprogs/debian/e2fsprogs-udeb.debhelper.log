@@ -1,0 +1,17 @@
+dh_update_autotools_config
+dh_update_autotools_config
+dh_prep
+dh_installdirs
+dh_movefiles
+dh_lintian
+dh_installchangelogs
+dh_fixperms
+dh_strip
+dh_compress
+dh_makeshlibs
+dh_installdeb
+dh_shlibdeps
+dh_shlibdeps
+dh_gencontrol
+dh_md5sums
+dh_builddeb
